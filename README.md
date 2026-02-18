@@ -17,6 +17,10 @@
 * This work was supported by the following grants:
 
 [![Badge](https://img.shields.io/badge/EU-CARES-lightblue)](https://www.cares-eu.org/)
+[![Badge](https://img.shields.io/badge/CFF-2023--2024-lightblue)](https://syopasaatio.fi/)
+[![Badge](https://img.shields.io/badge/RCF-GeneCellNano-lightblue)]([https://www.genecellnano.fi/])
+[![Badge](https://img.shields.io/badge/iCAN-iCANDOC-lightblue)]([https://ican.fi/icandoc/])
+
 
 ## Motivation
 Spatial transcriptomics (ST) methods face a trade-off between spatial resolution and transcriptome coverage, and users interested in ST need to resort to computational expertise and static analyses, limiting accessibility and interpretability of ST methods. **NaVis** is a web-based, interactive platform that transforms ST analysis into a microscopy experience. NaVis applies to low-res, whole-trascriptome ST technologies from 10x Genomics (Visium V1/V2, Cytassist and VisiumHD) and delivers near–real-time, super-resolution reconstructions of gene expression that rival with the level of detail of fluorescence microscopy. Its intuitive point-and-click interface lets researchers, clinicians, and pathologists explore, visualize, and quantify spatial gene expression without any coding, democratizing access to high-resolution spatial omics. 
@@ -96,3 +100,4 @@ In case your data follow the older format, where the data matrix is a folder wit
     └── tissue_positions.parquet
 
 ```
+
