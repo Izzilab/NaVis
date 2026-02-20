@@ -12,6 +12,7 @@
 [![Badge](https://img.shields.io/badge/NaVis-@ShinyApps-blue)](https://matrinet.shinyapps.io/NaVis/)
 [![Badge](https://img.shields.io/badge/NaVis-database-orange)](https://figshare.com/s/3e568dcb32106767cd5e)
 [![Badge](https://img.shields.io/badge/Release-v1.0-green)](https://github.com/Izzilab/NaVis)
+[![Badge](https://img.shields.io/badge/bioRxiv-red)](https://www.biorxiv.org/content/10.64898/2026.02.18.706509v1)
 
 * Authors and maintainers: Izzi Lab (✉️ <valerio.izzi@oulu.fi>)
 * This work was supported by the following grants:
@@ -100,4 +101,5 @@ In case your data follow the older format, where the data matrix is a folder wit
     └── tissue_positions.parquet
 
 ```
+
 
