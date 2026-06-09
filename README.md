@@ -21,8 +21,8 @@
 
 [![Badge](https://img.shields.io/badge/NaVis-@ShinyApps-blue)](https://matrinet.shinyapps.io/NaVis/)
 [![Badge](https://img.shields.io/badge/NaVis-database-orange)](https://figshare.com/s/3e568dcb32106767cd5e)
-[![Badge](https://img.shields.io/badge/Release-v1.0-green)](https://github.com/Izzilab/NaVis)
-[![Badge](https://img.shields.io/badge/NaVis-bioRxiv-red)](https://www.biorxiv.org/content/10.64898/2026.02.18.706509v1)
+[![Badge](https://img.shields.io/badge/Release-v2.0-green)](https://github.com/Izzilab/NaVis)
+[![Badge](https://img.shields.io/badge/NaVis-bioRxiv-red)](https://www.biorxiv.org/content/10.64898/2026.02.18.706509v2)
 [![Badge](https://img.shields.io/badge/EU-CARES-lightblue)](https://www.cares-eu.org/)
 [![Badge](https://img.shields.io/badge/SJS-Sigrid_Juselius_Foundation-lightblue)](https://www.sigridjuselius.fi/en/)
 [![Badge](https://img.shields.io/badge/RCF-GeneCellNano-lightblue)](https://www.genecellnano.fi/)
