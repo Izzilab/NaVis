@@ -2,7 +2,7 @@
 
 **NaVis: a virtual microscopy framework for interactive histological interrogation of spatial transcriptomics data.**
 
-[Ayomide Oshinjo](https://orcid.org/0000-0003-4303-0181) 1, [Jiahui Wu](https://orcid.org/0000-0002-8525-1794) 1, [Petar B. Petrov](https://orcid.org/0000-0001-5551-8032) 1, [Valerio Izzi](https://orcid.org/0000-0002-9960-4917) 1
+[Ayomide Oshinjo](https://orcid.org/0000-0003-4303-0181) 1, [Jiahui Wu](https://orcid.org/0000-0002-8525-1794) 1, [Petar B. Petrov](https://orcid.org/0000-0001-5551-8032) 1, [Ali Hashmi](https://orcid.org/0000-0001-9946-7679) 2, [Johanna I Englund](https://orcid.org/0000-0001-9637-6843)2 [Valerio Izzi](https://orcid.org/0000-0002-9960-4917) 1
 
 1. Faculty of Biochemistry and Molecular Medicine, University of Oulu, Oulu, FI-90014, Finland
 
